@@ -1,0 +1,9 @@
+
+
+### 📦 `requirements.txt`
+
+streamlit
+speechrecognition
+pywhatkit
+requests
+pyaudio

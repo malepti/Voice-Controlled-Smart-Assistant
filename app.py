@@ -122,7 +122,7 @@ def main():
             google_search(search_term)
         else:
             response = ask_gemini(query)
-            st.markdown(f'<div class="gemini-response"><b>Gemini:</b> {response}</div>', unsafe_allow_html=True)
+            st.markdown(f'<div class="gemini-response"><b>Venkatesh:</b> {response}</div>', unsafe_allow_html=True)
 
 if __name__ == '__main__':
     main()

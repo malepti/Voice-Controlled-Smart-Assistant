@@ -68,7 +68,7 @@ def main():
         # Otherwise, ask Gemini
         else:
             response = ask_gemini(user_input)
-            print('Gemini:', response)
+            print('Venkatesh:', response)
 
 if __name__ == '__main__':
     main()
